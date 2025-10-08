@@ -27,7 +27,7 @@ The **subset probability analysis** provides insights into co-occurrence pattern
   Analyze which accessories and colors tend to be chosen together. This feature uncovers popular modification trends not obvious from individual probabilities.
 
 - **Interactive UI**  
-  Users can select a car model and instantly view probability tables and charts.
+  Users can select a car model and instantly view probability tables.
 
 ---
 
